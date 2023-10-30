@@ -3,3 +3,4 @@ sqlalchemy
 uvicorn
 celery
 celery[redis]
+python-decouple
